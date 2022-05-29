@@ -1,6 +1,8 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
+  "name": "{{ appName }}",
+  "version": "1.0.0",
+  "description": "{{ description }}",
+  "author": "创页天空 <admin@cyesky.com>",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
